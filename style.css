@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img {
+    max-width: 25%;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.75;
+    background-color: #ecd0b4;
+}
+body h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 3.00;
+    text-align: center;
+    margin-top: -10%;
+}
+input {
+    display: flex;
+    font-size: medium;
+    margin-left: 45%;
+}
+button {
+    background-color: burlywood;
+    border: none;
+    text-align: center;
+    font-size:medium;
+    display: inline-block;
+    margin-left: 47%;
+    margin-top:-5%;
+}
+div h2{
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.00;
+    text-align:center;
+    margin: 1%;
+}
